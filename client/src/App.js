@@ -54,7 +54,7 @@ export default function App() {
         height: '100vh', background: '#f0fdf4', fontFamily: 'Nunito, sans-serif',
       }}>
         <div style={{ textAlign: 'center' }}>
-          <div style={{ fontSize: 52, marginBottom: 16 }}>🌾</div>
+          <div style={{ fontSize: 52, marginBottom: 16 }}></div>
           <div style={{ fontSize: 18, color: '#22c55e', fontWeight: 700 }}>Loading AGRI-AI...</div>
         </div>
       </div>
